@@ -1,0 +1,9 @@
+{
+    "type": "chef-solo",
+    "ami": "ami-c30360aa",
+    "run_list": [
+        "recipe[nginx::default]",
+    ],
+    "data_bags": {
+    }
+}
