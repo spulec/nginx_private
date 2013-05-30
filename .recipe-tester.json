@@ -5,5 +5,16 @@
         "recipe[nginx::default]"
     ],
     "data_bags": {
+        "foo": {
+            "key1": "val1",
+            "key2": "val2"
+        }
+    },
+    "node_attributes": {
+        "ec2_id": "1234",
+        "network": {
+            "ip_address": "10.0.0.1",
+            "other_id": "10.0.0.2"
+        }
     }
 }
