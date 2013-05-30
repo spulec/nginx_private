@@ -1,6 +1,6 @@
 {
     "type": "chef-solo",
-    "ami": "ami-5339bb3a",
+    "ami": "ami-c30360aa",
     "run_list": [
         "recipe[nginx::default]"
     ],
