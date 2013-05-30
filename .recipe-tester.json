@@ -6,8 +6,10 @@
     ],
     "data_bags": {
         "foo": {
-            "key1": "val1",
-            "key2": "val2"
+            "bar": {
+                "key1": "val1",
+                "key2": "val2"
+            }
         }
     },
     "node_attributes": {
