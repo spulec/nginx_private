@@ -18,6 +18,8 @@ end
 
 depends 'ohai', '>= 1.1.4'
 
+depends 'ntp_private'
+
 %w{ bluepill }.each do |cb|
   suggests cb
 end
