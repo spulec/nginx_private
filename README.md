@@ -1,5 +1,6 @@
 [![Build Status](https://recipe-tester.com/repo/spulec/ntp/badge.png)](https://recipe-tester.com/repo/spulec/)
 
+
 Description
 ===========
 Installs nginx from package OR source code and sets up configuration
